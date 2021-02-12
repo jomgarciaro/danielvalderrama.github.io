@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Jorge Pérez Pérez - Research Economist - Banco de México"
+excerpt: "Daniel Valderrama - Research Economist"
 author_profile: true
 redirect_from: 
   - /about/
