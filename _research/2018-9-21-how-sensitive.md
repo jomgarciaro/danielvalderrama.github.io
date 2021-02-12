@@ -1,0 +1,14 @@
+---
+title: "How Sensitive Is Regional Poverty Measurement in Latin America to the Value of the Poverty Line?"
+collection: research
+type: publication
+permalink: /research/2018-9-21-how-sensitive
+excerpt: 'This paper contributes to the methodological literature on the estimation of international poverty lines for Latin America based on the official poverty lines chosen by Latin American governments and commonly used in the public debate. The paper exploits a comprehensive data set of 86 up-to-date official extreme and total urban poverty lines across eighteen countries in Latin America, as well as the recently updated values of the national purchasing power parity conversion factors from the 2011 International Comparison Program and a set of harmonized household surveys. Using US$3.00 and US$6.00 per person a day at 2011 PPP as the extreme and total poverty lines, respectively, for Latin America, this paper illustrates the sensitivity of poverty rates to changes of the values of the poverty lines as a result of the recent update of the PPP values, the period of reference, and the relative cost of living across the countries in the region. Total poverty rates in Latin America increase when the 2011 PPP values are used instead of the 2005 PPP values, while the extreme poverty rate is unaffected. In general, country-specific poverty rankings remain fairly stable regardless of the values of the poverty lines selected.'
+date: 2018-9-21
+venue: Economía 
+paperurl: 'https://www.jstor.org/stable/90025862'
+citation: 
+---
+With R. Andrés Castañeda, Santiago Garriga, Leonardo Gasparini and Leonardo R. Lucchetti
+
+Abstract: This paper contributes to the methodological literature on the estimation of international poverty lines for Latin America based on the official poverty lines chosen by Latin American governments and commonly used in the public debate. The paper exploits a comprehensive data set of 86 up-to-date official extreme and total urban poverty lines across eighteen countries in Latin America, as well as the recently updated values of the national purchasing power parity conversion factors from the 2011 International Comparison Program and a set of harmonized household surveys. Using US$3.00 and US$6.00 per person a day at 2011 PPP as the extreme and total poverty lines, respectively, for Latin America, this paper illustrates the sensitivity of poverty rates to changes of the values of the poverty lines as a result of the recent update of the PPP values, the period of reference, and the relative cost of living across the countries in the region. Total poverty rates in Latin America increase when the 2011 PPP values are used instead of the 2005 PPP values, while the extreme poverty rate is unaffected. In general, country-specific poverty rankings remain fairly stable regardless of the values of the poverty lines selected.
