@@ -11,7 +11,7 @@ author_profile: true
 -------
 
 {% for post in site.teaching reversed %}
-	{% if post.type != 'TA' %}
+	{% if post.type != 'blaTA' %}
 		{% include archive-single.html %}
 	{% endif %}
 {% endfor %}
@@ -20,7 +20,7 @@ author_profile: true
 -------
 
 {% for post in site.teaching reversed %}
-	{% if post.type == 'TA' %}
+	{% if post.type == 'blaTA' %}
 		{% include archive-single.html %}
 	{% endif %}
 {% endfor %}
