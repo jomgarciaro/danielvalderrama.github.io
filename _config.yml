@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Valderrama"
+title                    : "Pepito Perez"
 title_separator          : "-"
-name                     : &name "Daniel Valderrama "
+name                     : &name "Pepito Perez "
 description              : &description "Research website"
 url                      : https://jomgarciaro.github.io/danielvalderrama2/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of  your site, e.g. "/blog"
@@ -72,9 +72,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "custom" # false (default), "google", "google-universal", "custom"
+  provider               :  # "custom" false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-44617482-2"
+    tracking_id          : #"UA-44617482-2"
 
 
 # Site Author
