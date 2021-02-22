@@ -6,6 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  image: "/Header-min.jpg"
+  # caption: "Aljaferia Palace, Zaragoza, Spain" 
 ---
 
 I am a PhD candidate at the Department of Economics at the University of Georgetown. In my research, I use micro-data to understand the implications of political distortions. My research thus far has evaluated the labor market effects of political competition, partisan aligment and corruption.
